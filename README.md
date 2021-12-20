@@ -1,0 +1,2 @@
+# pyspark_sructured_streaming_ml_real_time_twitter_sentiment_prediction
+ PySpark Real Time Sentiment Analysis
